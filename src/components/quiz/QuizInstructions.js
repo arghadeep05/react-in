@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 
 import answer from '../../assets/img/answer.png';
-import fiftyFifty from '../../assets/img/fiftyFifty.PNG';
-import hints from '../../assets/img/hints.PNG';
-import options from '../../assets/img/options.PNG';
+import fiftyFifty from '../../assets/img/fiftyFifty.png';
+import hints from '../../assets/img/hints.png';
+import options from '../../assets/img/options.png';
 
 const QuizInstructions = () => (
     <Fragment>
