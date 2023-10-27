@@ -1,19 +1,21 @@
 {
-  "name": "react",
-  "version": "0.0.0",
+  "name": "node-modules",
+  "version": "21.0.0",
   "private": true,
   "dependencies": {
     "@mdi/font": "^7.3.67",
     "classnames": "^2.3.2",
+    "css-loader": "^6.8.1",
     "materialize-css": "^1.0.0",
     "node-modules": "^1.0.1",
-    "node-sass": "^9.0.0",
-    "node_modules": "*",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
+    "node-sass": "^7.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-router-dom": "^6.17.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": " 3.2.0 ",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
     "typescript": "^3.2.1 || ^4"
   },
   "scripts": {
@@ -23,6 +25,35 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "sass": "^1.69.5",
+    "webpack": "^5.89.0"
+  },
+  "description": "[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/arghadeep05/react-in)",
+  "main": "y",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barman47/quiz-app.git"
+  },
+  "keywords": [
+    "*"
+  ],
+  "author": "*",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barman47/quiz-app/issues"
+  },
+  "homepage": "https://github.com/barman47/quiz-app#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
-@import '../base/_settings.scss';
-@import '../base/_base.scss';
+@import './base/settings';
+@import './base/base';
 @import './components/home';
 @import './components/quiz-instructions';
 @import './components/play';
